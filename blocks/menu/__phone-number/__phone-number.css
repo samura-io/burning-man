@@ -1,0 +1,18 @@
+.menu__phone-number {
+    color: white;
+    text-decoration: none;
+    flex-basis: 50%;
+    text-align: end;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 21px;
+    padding: 0px 10px;
+    transition: opacity 0.2s linear;
+    cursor: pointer;
+    min-width: 170px;
+    padding-left: 10px;
+}
+
+.menu__phone-number:hover {
+    opacity: 0.7;
+}

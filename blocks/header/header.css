@@ -1,0 +1,9 @@
+.header {
+    background-image: url(../../images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 900px;
+    color: white;
+    font-family: Anton;
+}

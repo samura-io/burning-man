@@ -1,0 +1,15 @@
+.header__button {
+    background-color: rgba(0,0,0,0);
+    font-size: 17px;
+    padding: 18px 23px;
+    border-color: white;
+    color: white;
+    vertical-align: center;
+    letter-spacing: 3px;
+    cursor: pointer;
+    transition: opacity 0.3s linear;
+}
+
+.header__button:hover {
+    opacity: 0.6;
+}

@@ -1,0 +1,5 @@
+.footer__content {
+    display: flex;
+    margin: 84px 0 80px;
+    flex-wrap: wrap;
+}

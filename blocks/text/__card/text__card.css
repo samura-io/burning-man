@@ -1,0 +1,8 @@
+.text__card {
+    width: 564px;
+    margin-right: 36px;
+}
+
+.text__card:last-of-type {
+    margin-right: 0px;
+}

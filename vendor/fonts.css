@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Anton;
+    src: url(../vendor/fonts/Anton-Regular.ttf);
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url(../vendor/fonts/OpenSans-Variable.ttf);
+    font-style: normal;
+}

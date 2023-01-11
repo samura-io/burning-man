@@ -1,0 +1,4 @@
+.menu_links {
+    display: flex;
+    flex-wrap: wrap;
+}
