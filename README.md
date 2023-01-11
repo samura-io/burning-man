@@ -1,0 +1,9 @@
+
+# Burning Man #
+
+<img alt='Preview' src='images/Screen.png' width="700">
+
+Pet project
+
+Данный проект выполнялся c целью закрепления навыков верстки CSS
+по методологии БЭМ <br> и организации файловой структруры по Nested.
