@@ -3,13 +3,13 @@
     height: 0px;
     background-image: url(../../../images/phone.png);
     background-size: cover;
-    padding: 2px;
 }
 
 @media screen and (max-width:1000px) {
     .menu__phone-logo {
         width: 35px;
         height: 35px;
+        padding: 2px;
     }
 }
 
