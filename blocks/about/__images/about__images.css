@@ -3,3 +3,9 @@
     margin-top: 54px;
     flex-wrap: wrap;
 }
+
+@media screen and (max-width:638px) {
+    .about__images {
+        justify-content: center;
+    }
+}

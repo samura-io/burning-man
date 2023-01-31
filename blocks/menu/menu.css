@@ -1,9 +1,15 @@
 .menu {
     display: flex;
-    width: 80%;
+    width: 94%;
     min-height: 48px;
     margin: 0 auto;
-    padding-top: 57px;
+    padding-top: 40px;
     justify-content: space-between;
     align-items: center;
+}
+
+@media screen and (max-width:550px) {
+    .menu {
+        padding-top: 20px;
+    }
 }

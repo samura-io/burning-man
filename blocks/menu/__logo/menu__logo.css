@@ -1,4 +1,12 @@
 .menu__logo {
-    width: 31px;
-    height: 48px;
+    max-width: 31px;
+    margin-right: 30px;
+
+}
+
+@media screen and (max-width:550px) {
+    .menu__logo {
+        max-width: 25px;
+        margin-right: 10px;
+    }
 }

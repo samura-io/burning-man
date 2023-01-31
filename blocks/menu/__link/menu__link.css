@@ -2,7 +2,6 @@
     box-sizing: border-box;
     text-decoration: none;
     color: white;
-    margin: 0 20px 0 20px;
     font-size: 20px;
     font-weight: 400;
     line-height: 35px;
@@ -14,4 +13,11 @@
 
 .menu_link:hover {
     border: 1px solid white;
+}
+
+@media screen and (max-width:550px) {
+    .menu_link {
+        font-size: 12px;
+
+    }
 }

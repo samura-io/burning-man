@@ -1,4 +1,7 @@
 .menu__phone-number {
+    display: flex;
+    align-items: center;
+    justify-content: end;
     color: white;
     text-decoration: none;
     flex-basis: 50%;
@@ -9,10 +12,16 @@
     padding: 0px 10px;
     transition: opacity 0.2s linear;
     cursor: pointer;
-    min-width: 170px;
     padding-left: 10px;
 }
 
 .menu__phone-number:hover {
     opacity: 0.7;
+}
+
+@media screen and (max-width:1000px) {
+    .menu__phone-number {
+        width: 0px;
+        font-size: 0px;
+    }
 }
